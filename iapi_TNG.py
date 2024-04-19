@@ -1,6 +1,7 @@
 """
 Contains useful funcitons for fetching data with the IllustrisTNG API
-Modified for the illustrisTNG workshop at STScI Symposium April 2024
+For the illustrisTNG workshop at STScI Symposium April 2024
+Modified by Bryanne McDonough from materials provided by the TNG team
 """
 
 
