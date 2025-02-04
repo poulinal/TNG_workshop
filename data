@@ -1,0 +1,40 @@
+dirc
+
+
+All subhalos:
+flag - subhalo flag
+stellar_mass (in 10^10 𝑀⊙/ℎ)
+sfr_inst
+groupNum
+Bfld
+subID
+
+
+Masked:
+
+Trimming (to aboves 10^9 solar masses):
+IDs
+stellar_mass
+sfr_inst
+groupNum_m
+Bfld_m
+(all have shape (21052,))
+
+Grouped subhalos:
+groups (sorted groupNum_m)
+grouped_s_mass
+grouped_sfr_i
+groupedbfld
+grouped_groupNum_i (same as groups)
+
+Seperate Satellites and Centrals: 
+centrals_mass
+satellites_mass
+centrals_bfld
+satellites_bfld
+
+Seperate isolated and non-isolated centrals:
+isolated_central_mass
+non_isolated_central_mass
+isolated_central_bfld
+non_isolated_central_bfld

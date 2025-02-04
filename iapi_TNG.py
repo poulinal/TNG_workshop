@@ -11,7 +11,7 @@ import h5py
 import os.path
 
 baseUrl = 'http://www.tng-project.org/api/'
-headers = {"api-key" : "ADD YOUR API HERE"}
+headers = {"api-key" : "016fbab0c73cad34294b913bfafc41dd"}
 
 def get(path, params=None, fName='temp'): # gets data from url, saves to file
     """

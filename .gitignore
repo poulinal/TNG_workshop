@@ -1,0 +1,6 @@
+#specific files
+TNG_workshop_data/SubhaloSFR_ta.hdf5
+TNG_workshop_data/galcat.npy
+TNG_workshop_data/catalogs/MassType.hdf5
+
+/backup_data
